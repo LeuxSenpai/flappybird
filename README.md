@@ -6,6 +6,15 @@
 ## Overview
 *Bird Flight* is a 2D side-scrolling game built using the Phaser 3 framework. Players control a bird navigating through a series of increasingly challenging levels, dodging columns and mastering physics-based movement. With five distinct levels, each featuring unique column layouts and backgrounds, the game combines intuitive mechanics with strategic depth. This README explores the game's design, key concepts, and instructions for setup and play.
 
+![Image](https://github.com/user-attachments/assets/e10063fb-471f-4cef-aaa3-8b28af8732a3)
+
+![Image](https://github.com/user-attachments/assets/f40dfeb5-e3e2-4117-a2b3-2153fd9a379e)
+
+![Image](https://github.com/user-attachments/assets/ef611649-ba40-4056-8d73-3e9d6aa34ebf)
+
+![Image](https://github.com/user-attachments/assets/00b8d28a-4f59-4d16-8c26-25b4ec2a6881)
+
+![Image](https://github.com/user-attachments/assets/5252a610-161f-49b0-aa1d-2b1602b69b95)
 ---
 
 ## Game Features
