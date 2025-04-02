@@ -111,4 +111,5 @@ Global variables (`isGameStarted`, `hasLanded`, `hasBumped`, `level`) track the 
 Enjoy *Bird Flight* and soar to victory!
 
 ---
+c:\Users\admin\Downloads\WhatsApp Image 2025-04-02 at 8.45.56 PM.jpeg
 
